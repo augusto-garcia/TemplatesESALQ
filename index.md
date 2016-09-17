@@ -1,8 +1,8 @@
 --- 
-title       : Gerenciamento de Referências Bibliográficas
+title       : Templates para Dissertações e Teses
 subtitle    : Use seu tempo de forma eficiente!
 author      : Antonio Augusto Franco Garcia (http://about.me/augusto.garcia)
-job         : Departamento de Genética, ESALQ/USP
+job         : Departamento de Genética, ESALQ/USP #Usar slidify
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : prettify  # {highlight.js, prettify, highlight}
 hitheme     : solarized_light    # era tomorrow
