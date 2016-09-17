@@ -1,8 +1,8 @@
 --- 
-title       : Templates para Dissertações e Teses
+title       : Templates - Dissertações e Teses
 subtitle    : Use seu tempo de forma eficiente!
-author      : Antonio Augusto Franco Garcia (http://about.me/augusto.garcia)
-job         : Departamento de Genética, ESALQ/USP #Usar slidify
+author      : Comissão 2014, SVPG, Biblioteca, LGN, CeTI-LQ
+job         : ESALQ/USP #Usar slidify
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : prettify  # {highlight.js, prettify, highlight}
 hitheme     : solarized_light    # era tomorrow
@@ -16,10 +16,17 @@ mode        : selfcontained # {standalone, draft}
 - O que faz um estudante/cientista/professor?
 - Atividade comum: estudar, ler, produzir conteúdo, *publicar*
 - Gerenciamento de uma grande quantidade de informação e conhecimento
+- Redação de conteúdo em diferentes formatos
+  - Plano de Tese
+  - Projeto FAPESP
+  - Relatórios
+  - Artigos
+  - Finalmente, a DISSERTAÇÃO/TESE
+- (Windows, Linux, Mac - Office, LibreOffice, $\LaTeX$)
 
 ---
 
-## Gerenciamento de Referências
+## Templates ("Modelos")
 
 - Objetivo: eficiência e produtividade
 - Usar os modernos recursos computacionais
