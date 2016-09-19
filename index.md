@@ -41,7 +41,7 @@ mode        : selfcontained # {standalone, draft}
 
 ---
 
-## Formatos para citação adotados pelas principais revistas
+## Formatos para citações bibliográficas adotados pelas principais revistas
 
 - [Citation Styles, CSL, http://citationstyles.org](http://citationstyles.org/)
   - Mais de 8000 estilos de citação (abertos e gratuitos)
