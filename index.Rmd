@@ -60,7 +60,7 @@ mode        : selfcontained # {standalone, draft}
   5. [Papers](http://www.papersapp.com/)
   6. [JabRef](http://jabref.sourceforge.net/)
   7. [citeulike](http://www.citeulike.org/)
-  8. $\ldots$ (a lista é longa!)
+  8. ... (a lista é longa!)
 
 ---
 
