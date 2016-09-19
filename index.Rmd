@@ -98,7 +98,7 @@ mode        : selfcontained # {standalone, draft}
 
 ---
 
-# Template e tutorial no $LaTeX$
+# Template e tutorial no LaTeX
 
 ![latex1](figures/LaTeX1.jpg)
 
