@@ -22,7 +22,7 @@ mode        : selfcontained # {standalone, draft}
   - Relatórios
   - Artigos
   - Dissertações e Teses (aluno, orientador, biblioteca, SVPG)
-- Windows, Linux, Mac - Office, LibreOffice, $\LaTeX$, ...
+- Windows, Linux, Mac - Office, LibreOffice, LaTeX, ...
 - Diversas regras em diferentes revistas, congressos, etc
 
 ---
@@ -83,7 +83,7 @@ mode        : selfcontained # {standalone, draft}
 
 - Desenvolver templates que possam ser usados em diferentes cenários
 - Multiplataforma (Windows, Mac, Linux)
-- Word, LibreOffice, $\LaTeX$, (Google Docs)
+- Word, LibreOffice, LaTeX, (Google Docs)
 - Gerenciadores de Referências
 - Tutoriais
 - Fácil utilização
