@@ -83,7 +83,7 @@ mode        : selfcontained # {standalone, draft}
 
 - Desenvolver templates que possam ser usados em diferentes cenários
 - Multiplataforma (Windows, Mac, Linux)
-- Word, LibreOffice, LaTeX, (Google Docs)
+- Word, LibreOffice, $LaTeX$, (Google Docs)
 - Gerenciadores de Referências
 - Tutoriais
 - Fácil utilização
@@ -93,7 +93,7 @@ mode        : selfcontained # {standalone, draft}
 ## Templates ("Modelos")
 
 - Objetivo: eficiência e produtividade
-- Use dos modernos recursos computacionais
+- Uso dos modernos recursos computacionais
 - Foco no conteúdo, não nos formatos e regras
 
 ---
